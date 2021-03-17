@@ -1,5 +1,5 @@
 
-# Fullstack GraphQL
+# Node React GraphQL
 
 Simple Demo Application
 
